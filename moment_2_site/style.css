@@ -1,0 +1,10 @@
+.content{
+    width: 70%;
+    max-width: 1080px;
+    margin: auto;
+    padding: 10px;
+    border: black 0.2px solid;
+    border-radius: 6px;
+    background-color: lightgray;
+    box-shadow: 2px 3px grey;
+}

@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "637e21b743ba329d74658155"
+  },
+  "kurskod": "DT057G",
+  "kursnamn": "Webbutveckling I",
+  "progression": "A",
+  "kursplan": "http://www.miun.se/utbildning/kurser/sok-kursplan/kursplan?kursplanid=15472",
+  "termin": "HT21"
+},{
+  "_id": {
+    "$oid": "637e21b743ba329d74658156"
+  },
+  "kurskod": "DT084G",
+  "kursnamn": "Introduktion till programmering i JavaScript",
+  "progression": "A",
+  "kursplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=30811",
+  "termin": "HT21"
+},{
+  "_id": {
+    "$oid": "637e21b743ba329d74658157"
+  },
+  "kurskod": "DT163G",
+  "kursnamn": "Digital bildbehandling för webb",
+  "progression": "A",
+  "kursplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=24403",
+  "termin": "HT21"
+},{
+  "_id": {
+    "$oid": "637e21b743ba329d74658158"
+  },
+  "kurskod": "DT068G",
+  "kursnamn": "Webbanvändbarhet",
+  "progression": "B",
+  "kursplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=30823",
+  "termin": "HT21"
+},{
+  "_id": {
+    "$oid": "637e21b743ba329d74658159"
+  },
+  "kurskod": "DT003G",
+  "kursnamn": "Databaser",
+  "progression": "A",
+  "kursplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=21595",
+  "termin": "VT22"
+},{
+  "_id": {
+    "$oid": "637e21b743ba329d7465815a"
+  },
+  "kurskod": "DT093G",
+  "kursnamn": "Webbutveckling II",
+  "progression": "B",
+  "kursplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=27133",
+  "termin": "VT22"
+},{
+  "_id": {
+    "$oid": "637e21b743ba329d7465815b"
+  },
+  "kurskod": "DT197G",
+  "kursnamn": "Webbdesign för CMS",
+  "progression": "B",
+  "kursplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=31118",
+  "termin": "VT22"
+},{
+  "_id": {
+    "$oid": "637e21b743ba329d7465815c"
+  },
+  "kurskod": "DT173G",
+  "kursnamn": "Webbutveckling III",
+  "progression": "B",
+  "kursplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=31475",
+  "termin": "VT22"
+},{
+  "_id": {
+    "$oid": "637e21b743ba329d7465815d"
+  },
+  "kurskod": "DT179G",
+  "kursnamn": "Programmeringens grunder",
+  "progression": "A",
+  "kursplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=30850",
+  "termin": "HT22"
+},{
+  "_id": {
+    "$oid": "637e21b743ba329d7465815e"
+  },
+  "kurskod": "DT186G",
+  "kursnamn": "Programvaruteknik, introduktionskurs",
+  "progression": "A",
+  "kursplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=31863",
+  "termin": "HT22"
+}]

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Courses consumer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="content">
+        <h1>DT162 moment 2</h1>
+        <h2>Konsumering av REST-webbtjänst med node.js</h2>
+        <div id="printout">
+
+        </div>
+
+
+        <br>
+        <form method="GET" id="addCourse">
+            <h2>Lägg till kurser via formuläret nedan!</h2>
+            
+            <label for="kurskod">Kurskod:</label>
+            <br>
+            <input type="text" id="kurskod">
+            <br><br>
+            <label for="kursnamn">kursnamn:</label>
+            <br>
+            <input type="text" id="kursnamn">
+            <br><br>
+            <label for="period">period:</label>
+            <br>
+            <input type="text" id="period">
+            <br><br>
+            
+            
+            <h3 id="error" style="color:red"></h3>
+            <button id="submit" type="submit">Skicka</button>
+        </form>
+
+
+    </div>  
+    <script src="site_js.js"></script>
+</body>
+</html>
